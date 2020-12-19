@@ -16,3 +16,8 @@ Learnt from : [Build with Python : tkinter Music Player Playlist](https://www.yo
 
 This project is really useful to help understand the working of tkinter library for creating fast and easy GUIs. Here's all that I learnt about tkinter!
 
+Check out the code, and screenshots to understand the working of the music player. 
+
+If you wish to try it out, clone the project and run `main.py` . Make sure you have already installed `tkinter`, `tkinter themes` and `pygame`. You can play the music file present in the `Resources` folder to check it out!
+
+
